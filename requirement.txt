@@ -1,0 +1,17 @@
+argparse
+smtplib
+email
+kink
+serial
+time
+abc
+typing
+sqlite3
+string
+re
+random
+datetime
+tkinter
+pathlib
+matplotlib
+time
